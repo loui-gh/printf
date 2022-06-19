@@ -1,3 +1,3 @@
 # printf
 
-Recreate the printf function in C.
+Recreate the printf function in C. Makes use of libft.
